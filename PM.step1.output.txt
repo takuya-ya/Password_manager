@@ -16,3 +16,7 @@ a:a:a
 サービス名:old2
 ユーザー名:gjakjgao
 パスワード名:jgoajg;akjg
+
+サービス名:apple
+ユーザー名:takuya
+パスワード名:jkajg;ajg;jaoigja;i
